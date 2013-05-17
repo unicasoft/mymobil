@@ -4,14 +4,14 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Mobil Sipariş</name>
+	<name>Mobil Siparis</name>
 
 	<description>
 	</description>
 
 	<author href="http://www.mikrotek.com.tr"
 		email="yazilim@mikrotek.com.tr">
-		Mikrotek Bilişim
+		Mikrotek Bilisim
 	</author>
 
 	<gap:platforms>
