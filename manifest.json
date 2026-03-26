@@ -1,0 +1,14 @@
+{
+  "name": "K-Elektro Org",
+  "short_name": "K-Elektro",
+  "description": "Türk Müzik Makinası",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#111118",
+  "theme_color": "#111118",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "any", "type": "image/x-icon", "purpose": "any maskable" }
+  ]
+}
